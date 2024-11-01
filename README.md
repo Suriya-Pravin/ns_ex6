@@ -1,6 +1,5 @@
 ### Date:
 # Ex-6: Compromising-windows-using-Metasploit
-Compromising windows using Metasploit
 ### Metasploit
 Compromising windows using Metasploit
 
