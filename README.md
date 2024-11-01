@@ -99,7 +99,8 @@ netstat
 A list of network connections appears, including one to a remote port of 4444, as highlighted in the image below.
 Notice the "PID/Program name" value for this connection, which is redacted 
 
-![Uploading 10).png…]()
+
+![10)](https://github.com/user-attachments/assets/6f269ded-784f-4115-92d2-b2cd3de52894)
 
 
 
